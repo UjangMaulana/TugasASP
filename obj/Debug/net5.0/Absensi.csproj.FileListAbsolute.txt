@@ -1,0 +1,200 @@
+D:\ASP\Absensi\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP\Absensi\bin\Debug\net5.0\appsettings.json
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.exe
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.deps.json
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.json
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.dev.json
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.dll
+D:\ASP\Absensi\bin\Debug\net5.0\ref\Absensi.dll
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.pdb
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.Views.dll
+D:\ASP\Absensi\bin\Debug\net5.0\Absensi.Views.pdb
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.AssemblyReference.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfoInputs.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfo.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.CoreCompileInputs.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cs
+D:\ASP\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.Manifest.cache
+D:\ASP\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.xml
+D:\ASP\Absensi\obj\Debug\net5.0\scopedcss\bundle\Absensi.styles.css
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.input.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.output.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorCoreGenerate.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.Views.pdb
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.dll
+D:\ASP\Absensi\obj\Debug\net5.0\ref\Absensi.dll
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.pdb
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.genruntimeconfig.cache
+D:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.CopyComplete
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+D:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\latihanbootstrap.cshtml.g.cs
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\appsettings.Development.json
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\appsettings.json
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.exe
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.deps.json
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.json
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.dev.json
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.dll
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\ref\Absensi.dll
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.pdb
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.Views.dll
+D:\Back up dari  c\Absensi\bin\Debug\net5.0\Absensi.Views.pdb
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.csproj.AssemblyReference.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfoInputs.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfo.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.csproj.CoreCompileInputs.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.MvcApplicationPartsAssemblyInfo.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.Manifest.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.xml
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\scopedcss\bundle\Absensi.styles.css
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.input.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.output.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.RazorCoreGenerate.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\latihan1.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cs
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.Views.pdb
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.dll
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\ref\Absensi.dll
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.pdb
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.genruntimeconfig.cache
+D:\Back up dari  c\Absensi\obj\Debug\net5.0\Absensi.csproj.CopyComplete
+E:\ASP\Absensi\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP\Absensi\bin\Debug\net5.0\appsettings.json
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.exe
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.deps.json
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.json
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.runtimeconfig.dev.json
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.dll
+E:\ASP\Absensi\bin\Debug\net5.0\ref\Absensi.dll
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.pdb
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.Views.dll
+E:\ASP\Absensi\bin\Debug\net5.0\Absensi.Views.pdb
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.AssemblyReference.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfoInputs.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.AssemblyInfo.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.CoreCompileInputs.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cs
+E:\ASP\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.Manifest.cache
+E:\ASP\Absensi\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.xml
+E:\ASP\Absensi\obj\Debug\net5.0\scopedcss\bundle\Absensi.styles.css
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.input.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.TagHelpers.output.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorCoreGenerate.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.Views.pdb
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.dll
+E:\ASP\Absensi\obj\Debug\net5.0\ref\Absensi.dll
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.pdb
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.genruntimeconfig.cache
+E:\ASP\Absensi\obj\Debug\net5.0\Absensi.csproj.CopyComplete
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\bootstrap.cshtml.g.cs
+E:\ASP\Absensi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\ASP\Absensi\bin\Debug\net5.0\Google.Protobuf.dll
+E:\ASP\Absensi\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\ASP\Absensi\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\ASP\Absensi\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\ASP\Absensi\bin\Debug\net5.0\MySql.Data.dll
+E:\ASP\Absensi\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\ASP\Absensi\bin\Debug\net5.0\ZstdNet.dll
+E:\ASP\Absensi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP\Absensi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP\Absensi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Mahasiswa.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Mahasiswaadd.cshtml.g.cs
+E:\ASP\Absensi\obj\Debug\net5.0\Razor\Pages\Rekap.cshtml.g.cs
+E:\ASP\AbsenOnline\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP\AbsenOnline\bin\Debug\net5.0\appsettings.json
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.exe
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.deps.json
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.runtimeconfig.json
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.runtimeconfig.dev.json
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\ref\Absensi.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.pdb
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.Views.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Absensi.Views.pdb
+E:\ASP\AbsenOnline\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Google.Protobuf.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\MySql.Data.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\ZstdNet.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP\AbsenOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.csproj.AssemblyReference.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.AssemblyInfoInputs.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.AssemblyInfo.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.csproj.CoreCompileInputs.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.RazorAssemblyInfo.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.Manifest.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\staticwebassets\Absensi.StaticWebAssets.xml
+E:\ASP\AbsenOnline\obj\Debug\net5.0\scopedcss\bundle\Absensi.styles.css
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.TagHelpers.input.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.TagHelpers.output.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.RazorCoreGenerate.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\bootstrap.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Mahasiswa.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Mahasiswaadd.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Rekap.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cache
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.RazorTargetAssemblyInfo.cs
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.Views.pdb
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.csproj.CopyComplete
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.dll
+E:\ASP\AbsenOnline\obj\Debug\net5.0\ref\Absensi.dll
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.pdb
+E:\ASP\AbsenOnline\obj\Debug\net5.0\Absensi.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿@page
+@model Absensi.Pages.LoginModel
+@{
+        Layout=null;
+}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initia;-scale-1">
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" text="type/css">
+        <script type="text/javascript" src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+        <title>Login Page</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9 col-lg5 mx-auto">
+                    <div class="card card-signin my-5">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Sign In</h5>
+                            <form action="" class="form-sigin">
+                                <div class="form-label-group">
+                                    <label for="inputEmail">Email Address</label>
+                                    <input asp-for="UserEmail" type="email" id="UserEmail" class="form-control" placeholder="Email address" required autofocus>        
+                                </div>
+                                <div class="form-label-group">
+                                    <label for="inputPassword">Password</label>
+                                    <input asp-for="Password" type="password" id="Password" class="form-control" placeholder="Password" required>
+                                </div>
+                                <br>
+                                <button class="btn btn-lg btn-primary btn-block text-uppercas" type="submit">Sign In </button>
+                            </form>
+                            <div>
+                                @Model.Message
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
